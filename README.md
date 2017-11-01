@@ -1,11 +1,5 @@
-A simple weather api app built from scratch (source)
+Using Ruby on Rails, Vue.js and Ajax, I put together a micro weather api app that uses JWT (tokens) to authenitcate users to see api data. 
 
-This is the first api that I built from scratch myself. 
+Just testing out the Vue/Rails integration
 
-Nothing fancy for the front end, it just forces json format so that requests don't return an error.
-
-TODO 
-Allow for xml format as well. Add an If XML statement.
-
-snapshot
-![Alt text](/app/assets/images/snapshot.jpg?raw=true "Basic Snapshot of JSON Output")
+No pretty front-end - just concept.
